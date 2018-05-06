@@ -1,0 +1,66 @@
+
+
+
+
+
+/*
+     FILE ARCHIVED ON 22:01:56 Oct 3, 2012 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 11:18:30 May 29, 2014.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+*/
+#phorizontal {
+	padding: 0;
+	margin: 10px 0;
+}
+#phorizontal table, #phorizontal table tr, #phorizontal table td {
+	border: none;	
+	background: none;
+	padding: 0;
+	margin: 0;
+}
+#phorizontal table tr td {
+	width: auto;
+	vertical-align: top;
+	text-align: left;	
+	padding: 0 10px 0 0;
+}
+#phorizontal table tr td a {
+	display: block;
+	width: 153px;
+	background: #ccc;
+	text-decoration: none;
+	color: #000;
+	line-height: 10px;
+	padding-bottom: 5px;
+}
+#phorizontal table tr td a:hover {
+	color: #003366;	
+}
+#phorizontal table tr td a img {
+	border: 2px #ccc solid;
+	margin: 0;	
+}
+#phorizontal table tr td a:hover img {
+	border-color: #999;	
+}
+#phorizontal table tr td a span {
+	display: block;
+	width: 150px;
+	overflow: hidden;
+	padding: 5px;
+	text-decoration: none;
+}
+#phorizontal table tr td a:hover span {
+	text-decoration: underline;
+}
+#phorizontal table tr td i {
+	display: block;
+	width: 153px;
+	padding: 5px;
+	overflow: hidden;
+	font-style: normal;
+	font-weight: bold;
+}
